@@ -1,0 +1,148 @@
+{
+    "basics": {
+        "name": "Yogit Nainani",
+        "label": "Student",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQEY7jryqdAQww/profile-displayphoto-shrink_800_800/0/1654573873367?e=1663200000&v=beta&t=fe7CD2V3g0bYtw9lnDpW4CbIVd__PmmGNfUUqf2X5zc",
+        "email": "2021kucp1004@iiitkota.ac.in",
+        "phone": "+918982167622",
+        "website": "",
+        "summary": "Currently studying in IIIT Kota, on a journey to create awesome designs and Web Apps.",
+        "location": {
+            "address": "Indore",
+            "postalCode": "452007",
+            "city": "Indore",
+            "countryCode": "India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "YogitNainani",
+                "url": "https://www.twitter.com/YogitNainani"
+            },
+            {
+                "network": "Github",
+                "username": "yogitnainani",
+                "url": "https://www.github.com/yogitnainani"
+            },
+            {
+                "network": "linkedin",
+                "username": "yogit-nainani-971738169",
+                "url": "https://www.linkedin.com/in/yogit-nainani-971738169/"
+            },
+            {
+                "network": "Instagram",
+                "username": "yogitnainani",
+                "url": "https://instagram.com/yogitnainani"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Junior Executive",
+            "website": "https://iiitiansnetwork.com",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Working in the Core team at IIITians Network, mainly acting as Social Media Outreach."
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "PHP",
+                "MySql",
+                "Git",
+                "C/C++",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Art",
+            "keywords": [
+                "Brush Calligraphy",
+                "Bullet Journaling",
+                "Portrait Sketching"
+            ]
+        },
+        {
+            "name": "Baking",
+            "keywords": [
+                "Professional Home-baker"          
+            ]
+        }
+    ]
+}
